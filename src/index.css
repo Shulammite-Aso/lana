@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .card {
-  @apply flex flex-col justify-center items-center shadow rounded-sm lg:w-3/5 md:w-3/4 w-11/12 p-11 bg-white font-sans text-gray-700;
+  @apply flex flex-col justify-center items-center shadow rounded lg:w-3/5 md:w-3/4 w-11/12 p-11 bg-white font-sans text-gray-700;
 }
